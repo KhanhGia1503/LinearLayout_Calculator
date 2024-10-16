@@ -14,8 +14,9 @@
         android:background="#000000"
         android:text="Calculator"
         android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        android:padding="28dp" />
+        android:textSize="28sp"
+        android:padding="10dp"
+        android:gravity="center_vertical|start"/>
 
     <TextView
         android:id="@+id/display_text_view"
